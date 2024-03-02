@@ -1,0 +1,26 @@
+{
+  "name": "rewiki-btn-events",
+  "version": "1.0.0",
+  "description": "Analsor event module used to debounce a digital input signal and produce analsor action events.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/analsorhost/rewiki-btn-events.git"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "@rewikipx/simple-rewiki-tstacktable": "^1.0.1",
+    "simple-prompts-web3": "^1.0.1"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "btn",
+    "button event",
+    "click",
+    "press"
+  ],
+  "author": "Analsorhost Mickey",
+  "license": "MIT"
+}
